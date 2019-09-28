@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5f1c8695fb4994c8d9f06b603b97fda6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - food: {instanceID: 0}
+  - scoreTextObject: {instanceID: 0}
+  - notificationTextObject: {instanceID: 0}
+  - highScoreHolderPrefab: {instanceID: 0}
+  - snakeBodyContainer: {instanceID: 0}
+  - snakeBodyPrefab: {fileID: 100000, guid: 80c729789af2e48ebbdcaec0d37fa04c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
